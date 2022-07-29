@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 test.ipynb
-PyBer.ipynb
 Resources/PyBer_ride_data.csv
+PyBer_ride_data.ipynb
